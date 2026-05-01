@@ -2,7 +2,7 @@
 title: 'From Pet Project to Job Offer: The Software Engineer’s Fast Track'
 description: 'Why a Simple Todo App Is One of the Best Interview Preparations You Can Do'
 pubDatetime: 2026-02-12T13:40:59+0000
-heroImage: /assets/img/2026/from-pet-project-to-job-offer/hero.png
+heroImage: /assets/img/2026/from-pet-project-to-job-offer/pet-project-hero.webp
 tags: ["software", "interview", "engineering", "productivity"]
 ---
 
